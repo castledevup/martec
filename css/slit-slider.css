@@ -32,7 +32,7 @@
 	width: 40px;
 	height: 40px;
 	border: 8px solid #ddd;
-	border: 8px solid rgba(150,150,150,0.4);
+	border: 8px solid #F57F17;
 	text-indent: -90000px;
 	margin-top: -40px;
 	cursor: pointer;
@@ -61,7 +61,8 @@
 }
 
 #nav-arrows > a {
-  border: 1px solid #fff;
+  border: none;
+  background: #F9A825;    
   color: #fff;
   display: block;
   height: 60px;
@@ -155,13 +156,13 @@
 }
 
 .bg-img-1 {
-	background-image: url(../img/slider/banner.jpg);
+	background-image: url(../img/slider/item1.jpg);
 }
 .bg-img-2 {
-	background-image: url(../img/slider/affinity.jpeg);
+	background-image: url(../img/slider/item2.jpeg);
 }
 .bg-img-3 {
-	background-image: url(../img/slider/cinelli.jpeg);
+	background-image: url(../img/slider/item3.jpeg);
 }
 
 

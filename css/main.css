@@ -15,11 +15,11 @@
 /* =================================== */
 
 body {
-    background-color: #fff;
-    font-family: 'Open Sans', sans-serif;
+    background-color: #E3F2FD;
+    font-family: 'Roboto', sans-serif;
     line-height: 24px;
     font-size: 16px;
-    color: #818181;
+    color: #777;
 }
 
 figure, p, address {
@@ -49,8 +49,8 @@ a, a:hover, a:focus, .btn:focus {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Open Sans', sans-serif;
-    color: #252525;
+    font-family: 'Poppins', sans-serif;
+    color: #1976D2;
 }
 
 main > section {
@@ -61,14 +61,16 @@ main > section {
     border-radius: 0;
     border: 0;
     position: relative;
-    text-transform: uppercase;
 }
 
 .btn-blue {
-    background-color: rgba(0,158,227, 0.78);
+    font-family: 'Poppins', sans-serif;
+    background-color: #F9A825;
     box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
     padding: 15px 55px;
     color: #fff;
+    border-radius: 3px;
+    border-bottom: 2px solid #FFF;
 }
 
 .btn-border {
@@ -148,7 +150,7 @@ main > section {
 }
 
 .btn-effect:hover, .btn-effect:focus, .btn-effect:active {
-	color: #009EE3;
+	color: #F57F17;
 }
 
 .btn-effect:hover:before, .btn-effect:focus:before, .btn-effect:active:before {
@@ -171,7 +173,6 @@ main > section {
     margin: 0 0 30px;
     padding-bottom: 30px;
     position: relative;
-    text-transform: uppercase;
 }
 
 .sec-title.white h2 {
@@ -279,26 +280,27 @@ main > section {
          -o-transition: all 0.8s ease 0s;
             transition: all 0.8s ease 0s;
 
-    background-color: rgba(0,0,0,.4);
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    background-color: transparent;
     padding: 5px 0;
 }
 
+
 #navigation.animated-header {
-    padding: 20px 0;
+    background: #009EE3;
+    padding: 10px 0;
 }
 
 h1.navbar-brand {
+    color: #fff;
     font-size: 20px;
     font-weight: 700;
     margin: 0;
-    text-transform: uppercase;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    color: #FFF;
     font-size: 15px;
-    text-transform: uppercase;
 }
 
 
@@ -355,6 +357,7 @@ h1.navbar-brand {
 }
 
 .slide-caption .caption-content {
+    
     vertical-align: middle;
     display: table-cell;
 }
@@ -364,14 +367,13 @@ h1.navbar-brand {
     font-size: 52px;
     font-weight: 400;
     margin-bottom: 25px;
-    text-transform: uppercase;
 }
 
 .caption-content > span {
     display: block;
+    font-weight: 300;
     font-size: 24px;
     margin-bottom: 45px;
-    text-transform: capitalize;
 }
 
 .caption-content p {
