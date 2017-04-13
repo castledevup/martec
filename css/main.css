@@ -286,7 +286,7 @@ main > section {
 
 
 #navigation.animated-header {
-    background: #009EE3;
+    background: #E3F2FD;
     padding: 10px 0;
 }
 
@@ -295,14 +295,20 @@ h1.navbar-brand {
     font-size: 20px;
     font-weight: 700;
     margin: 0;
+    padding: 0px;
 }
 
 .navbar-inverse .navbar-nav > li > a {
     font-family: 'Poppins', sans-serif;
-    color: #FFF;
-    font-size: 15px;
+    color: #000;
+    font-size: 20px;
+    
+    
 }
 
+.navbar-brand {
+    height: auto;
+}
 
 /*=================================================================
 	Home Slider
