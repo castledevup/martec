@@ -88,13 +88,13 @@
 #nav-arrows > a.sl-next {
 	right: 50px;
 }
-
+/* --HOVER--
 #nav-arrows > a.sl-next:hover {
 	background-color: #009EE3;
 	border-color: #009EE3;
 	color: #fff;
 }
-
+*/
 /* Custom navigation dots */
 
 .nav-dots {

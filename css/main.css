@@ -355,7 +355,7 @@ h1.navbar-brand {
     left: 0;
     min-height: 100%;
     position: absolute;
-    text-align: center;
+    text-align: left;
     top: 0;
     width: 100%;
     z-index: 11;
