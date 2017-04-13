@@ -8,3 +8,7 @@
 .navbar-inverse .navbar-nav > li > a {
     color: #669;
 }
+
+.btn .btn-blue .btn-effect {
+    text-transform: uppercase;
+}

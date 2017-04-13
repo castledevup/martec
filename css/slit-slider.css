@@ -62,7 +62,7 @@
 
 #nav-arrows > a {
   border: none;
-  background: #F9A825;    
+  background: transparent;    
   color: #fff;
   display: block;
   height: 60px;
