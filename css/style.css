@@ -27,3 +27,16 @@
     width:100%;
     position:absolute;
 }
+
+.testimonial-item img {
+    border: none;
+    border-radius: 0;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #666699;
+}
+
+.navbar-header h1{
+    margin-left:25px;
+}
