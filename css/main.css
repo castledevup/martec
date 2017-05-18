@@ -65,7 +65,7 @@ main > section {
 
 .btn-blue {
     font-family: 'Cabin', sans-serif;
-    background-color: #009EE3;
+    background-color: #669;
     box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
     padding: 10px 15px;
     color: #fff;
@@ -79,7 +79,7 @@ main > section {
 }
 
 .bg-blue {
-    background-color: #009EE3;
+    background-color: #669;
 }
 
 /* Sweep To Right */
@@ -149,7 +149,7 @@ main > section {
 }
 
 .btn-effect:hover, .btn-effect:focus, .btn-effect:active {
-	color: #009EE3;
+	color: #669;
 }
 
 .btn-effect:hover:before, .btn-effect:focus:before, .btn-effect:active:before {
@@ -179,7 +179,7 @@ main > section {
 }
 
 .sec-title h2:after {
-    border-bottom: 1px solid #009ee3;
+    border-bottom: 1px solid #669;
     content: "";
     display: block;
     left: 45%;
@@ -501,14 +501,14 @@ h1.navbar-brand {
 }
 
 .fancybox-next span {
-    background: url("../img/right.png") no-repeat scroll center center #009ee3;
+    background: url("../img/right.png") no-repeat scroll center center #669;
     height: 50px;
     width: 50px;
     right: 0;
 }
 
 .fancybox-prev span {
-    background: url("../img/left.png") no-repeat scroll center center #009ee3;
+    background: url("../img/left.png") no-repeat scroll center center #669;
     height: 50px;
     width: 50px;
     left: 0;
@@ -519,7 +519,7 @@ h1.navbar-brand {
 ==================================================================*/
 
 #about {
-    background-color: #009EE3;
+    background-color: #669;
     color: #fff;
 }
 
@@ -599,9 +599,9 @@ h1.navbar-brand {
 }
 
 .service-item:hover .service-icon {
-    border: 3px solid #009ee3;
+    border: 3px solid #669;
     margin-bottom: 20px;
-    color: #009ee3;
+    color: #669;
 }
 
 .service-icon i {
@@ -698,7 +698,7 @@ ul.external li a {
 }
 
 ul.external li a:hover {
-    background-color: #009EE3;
+    background-color: #669;
     color: #fff;
 }
 
@@ -841,7 +841,7 @@ ul.external li a:hover {
 }
 
 .price-table.featured .value {
-    background-color: #009EE3;
+    background-color: #669;
     color: #fff;
 }
 
@@ -890,7 +890,7 @@ ul.external li a:hover {
 
 .price-table.featured ul li:last-child,
 .price-table ul li:last-child:hover {
-    background-color: #009EE3;
+    background-color: #669;
 }
 
 .price-table.featured ul li:last-child a,
@@ -945,8 +945,8 @@ ul.external li a:hover {
 }
 
 .social-button li a:hover {
-    color: #008ECC;
-    border: 2px solid #008ECC;
+    color: #669;
+    border: 2px solid #669;
 }
 
 
@@ -1126,7 +1126,7 @@ textarea.form-control {
 }
 
 .footer-social ul li a:hover {
-    color: #009EE3;
+    color: #669;
 }
 
 .footer-content > p {

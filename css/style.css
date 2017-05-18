@@ -1,3 +1,22 @@
+#hero {
+    display: flex;
+    align-items: center;
+    height: 85vh;
+    width: 100vw;
+    background-color: #E3F2FD;
+}
+
+#hero h1 {
+    color:  #666699;
+    font-size: 48px;
+}
+
+#hero p {
+    color: #666699;
+    opacity: 0.54;
+    font-size: 21px;
+}
+
 .navbar-toggle {
     margin-top: 13px;
 }
@@ -11,6 +30,9 @@
 
 .btn .btn-blue .btn-effect {
     text-transform: uppercase;
+}
+.btn-blue {
+    background-color: #669;
 }
 
 .mapa-responsivo{
@@ -41,6 +63,24 @@
     margin-left:25px;
 }
 #home-slider h2, span{
-    color: darkblue;
+    color: #669;
+    text-shadow: 1px 1px white;
     font-weight: 600;
 }
+#about {
+    background-color: #669;
+}
+h2, h3 {
+    color: #669;
+}
+h1 {
+    font-size: 48px;
+    color: white;
+}
+/*#portfolio h2, h3 {
+    color: #669;
+}*/
+/* #service h2, h3 {
+    color: #669;
+}
+#contact*/
