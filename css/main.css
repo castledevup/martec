@@ -232,9 +232,9 @@ main > section {
     border: 1px #2E2E2E solid;
     border-radius: 2px;
     position: relative;
-    -webkit-animation: charge 5s linear infinite;
-       -moz-animation: charge 5s linear infinite;
-            animation: charge 5s linear infinite;
+    -webkit-animation: charge 2s linear infinite;
+       -moz-animation: charge 2s linear infinite;
+            animation: charge 2s linear infinite;
     margin: 0 auto;
 }
 
@@ -250,18 +250,18 @@ main > section {
 }
 
 @-webkit-keyframes charge{
-    0%{box-shadow: inset 0px 0px 0px #2E2E2E;}
-    100%{box-shadow: inset 60px 0px 0px #2E2E2E;}
+    0%{box-shadow: inset 0px 0px 0px black;}
+    100%{box-shadow: inset 60px 0px 0px #F5AB37;}
 }
 
 @-moz-keyframes charge{
-    0%{box-shadow: inset 0px 0px 0px #2E2E2E;}
-    100%{box-shadow: inset 60px 0px 0px #2E2E2E;}
+    0%{box-shadow: inset 0px 0px 0px black;}
+    100%{box-shadow: inset 60px 0px 0px #F5AB37;}
 }
 
 @keyframes charge{
-    0%{box-shadow: inset 0px 0px 0px #2E2E2E;}
-    100%{box-shadow: inset 60px 0px 0px #2E2E2E;}
+    0%{box-shadow: inset 0px 0px 0px black;}
+    100%{box-shadow: inset 60px 0px 0px #F5AB37;}
 }
 
 

@@ -40,3 +40,7 @@
 .navbar-header h1{
     margin-left:25px;
 }
+#home-slider h2, span{
+    color: darkblue;
+    font-weight: 600;
+}
