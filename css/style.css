@@ -70,12 +70,18 @@
 #about {
     background-color: #669;
 }
+a:hover, a:focus {
+    color: #669;
+}
 h2, h3 {
     color: #669;
 }
 h1 {
     font-size: 48px;
     color: white;
+}
+#footer {
+    padding-bottom: 10px;
 }
 /*#portfolio h2, h3 {
     color: #669;
